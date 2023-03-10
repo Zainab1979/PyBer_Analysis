@@ -4,7 +4,7 @@
 The purpose of the is project to an analysis to ride_shering_data, which explain how the total rides different in each city type the maximum rides we found it in Urban then Suburban and finally in Rural.
 
 ## Results
-![ridesharingdata](./anlysis/ride_sharing_data.png)
+![ridesharingdata](https://github.com/Zainab1979/PyBer_Analysis/blob/main/analysis/ride_sharing_data.png.png) 
 Based on the above data the following are the findings:
 - We can find the most rides in Urban than suburban than rulal.
 - And we can see also the Urban have approximately five times driver count then Suburban.
